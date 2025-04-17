@@ -1,10 +1,10 @@
 //your JS code here. If required.
 
-let isConfirm = confirm("Do you want to proceed?")
+let isConfirm = confirm("Do you want to proceed?");
 
 if(isConfirm){
-	alert("You Clicked OK. Proceeding...");
+	alert("You clicked OK. Proceeding...");
 } else {
-	alert("You Clicked Cancel. Exiting...");
+	alert("You clicked Cancel. Exiting...");
 }
 
